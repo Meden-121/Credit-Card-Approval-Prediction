@@ -96,7 +96,7 @@ The model serves as the core engine for three operational use cases:
 ├── 05_credit_risk_modeling.ipynb           # ML training, evaluation, threshold tuning
 └── README.md
 ```
-**8. Dataset:**
+## 8. Dataset
 
 Link: https://drive.google.com/drive/folders/1bvFByJnCoA3n4XEJnEZWg8NJnvhUZMVY?usp=sharing
 
