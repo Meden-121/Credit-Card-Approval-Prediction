@@ -35,6 +35,7 @@ An interactive dashboard is built prior to modelling to surface patterns in the 
 - Visualises default rate distributions across income brackets, occupation types, age groups, and housing categories.
 - Highlights "risk zones" — customer segments with disproportionately high `MAX_RISK_SCORE` — that inform feature selection.
 - Serves as a communication layer between the data pipeline and modelling decisions.
+<img width="1373" height="762" alt="image" src="https://github.com/user-attachments/assets/b7242655-74a9-4a1a-9bd0-f2cd1d2a04df" />
 
 ### 3.3 Machine Learning — Python / Jupyter (`05_credit_risk_modeling.ipynb`)
 
